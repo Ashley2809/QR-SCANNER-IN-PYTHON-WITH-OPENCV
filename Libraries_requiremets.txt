@@ -1,2 +1,2 @@
 1. pip install pyzbar
-2. pip install opencv-pyt
+2. pip install opencv-python
